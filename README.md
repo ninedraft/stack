@@ -1,3 +1,4 @@
+[![Go Reference](https://pkg.go.dev/badge/github.com/ninedraft/stack.svg)](https://pkg.go.dev/github.com/ninedraft/stack)
 # stack 
 
 This is a simple stack implementation in Go.
